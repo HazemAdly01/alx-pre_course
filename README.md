@@ -1,1 +1,2 @@
-# alx-pre_course01
+My first readme
+# alx_zero_day
